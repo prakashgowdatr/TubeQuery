@@ -2,7 +2,6 @@
 
 **TubeQuery** is an LLM-based model designed to fetch queries related to YouTube videos. By simply inputting a video link, you can ask questions about the video's content and receive answers.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-View%20on%20Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/sitama/tubequery)
 
 Here is the [publication](https://app.readytensor.ai/publications/sw0uANUAdEXE) of TubeQuery. 
 
